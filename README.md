@@ -1,3 +1,3 @@
 # DeepNav
 
-An Ai Application
+An Ai Application For Research Paper
